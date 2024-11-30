@@ -1,10 +1,11 @@
 # ModusHack
-Name - ![Harshit Raj](https://www.linkedin.com/in/harshit-raj-500606229/)
+## Job Ready
+#### A chrome extension for LinkedIn for you to be always job ready.
+
+**Name** - ![Harshit Raj](https://www.linkedin.com/in/harshit-raj-500606229/)
 ## Video Demo
 Link - 
 
-## Job Ready
-#### A chrome extension for LinkedIn for you to be always job ready.
 
 ## Why use Job Ready?
 If you are facing trouble every time in making a new resume or cover letter for each job you are applying. 
